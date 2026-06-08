@@ -1,27 +1,34 @@
-# learning-arboles
+# Arboles
 
-Repositorio de aprendizaje para practicar estructuras de datos basadas en árboles.
+<div align="center">
 
-## Categoría
+![Learning](https://img.shields.io/badge/Tipo-Aprendizaje-0ea5e9?style=for-the-badge)
+![Trees](https://img.shields.io/badge/Tema-Arboles-16a34a?style=for-the-badge)
+![Status](https://img.shields.io/badge/Estado-Practica-22c55e?style=for-the-badge)
 
-`learning-` — ejercicios y prácticas para fortalecer fundamentos de programación.
+**Ejercicios para comprender estructuras jerarquicas, recorridos y operaciones con arboles.**
 
-## Objetivo
+</div>
 
-Comprender la estructura, recorrido y operación de árboles dentro de programación y estructuras de datos.
+---
 
-## Temas que cubre
+## Contexto
 
-- Árboles.
-- Recorridos.
-- Inserción y búsqueda.
-- Organización jerárquica de datos.
-- Práctica de lógica algorítmica.
+Repositorio de aprendizaje enfocado en estructuras de datos basadas en arboles.
+
+## Proposito
+
+- Practicar recorridos e inserciones.
+- Comprender organizacion jerarquica de datos.
+- Reforzar busqueda, logica y pensamiento algoritmico.
+- Mantener evidencia de practica tecnica.
+
+## Temas
+
+![Trees](https://img.shields.io/badge/Arboles-15803d?style=flat-square)
+![Data Structures](https://img.shields.io/badge/Estructuras%20de%20Datos-2563eb?style=flat-square)
+![Algorithms](https://img.shields.io/badge/Algoritmos-7c3aed?style=flat-square)
 
 ## Estado
 
-Proyecto de aprendizaje conservado como evidencia de práctica técnica.
-
-## Nota
-
-Este repositorio no está pensado como producto final, sino como material de estudio y práctica.
+Proyecto de aprendizaje finalizado como practica de fundamentos.
